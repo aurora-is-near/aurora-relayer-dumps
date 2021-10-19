@@ -1,0 +1,2 @@
+aurora-mainnet-prehistory.sql.gz filter=lfs diff=lfs merge=lfs -text
+aurora-testnet-prehistory.sql.gz filter=lfs diff=lfs merge=lfs -text
